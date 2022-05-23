@@ -206,19 +206,19 @@ plt.show()
 ```
 ## OUTPUT:
 
-<img width="373" alt="img" src="https://user-images.githubusercontent.com/75413726/169875126-f6ead400-ffeb-4c03-aaad-ff9272ab4552.png">
-<img width="272" alt="img1" src="https://user-images.githubusercontent.com/75413726/169875203-83a9c76e-ed99-4382-acba-f73c0a4bff09.png">
-<img width="316" alt="img2" src="https://user-images.githubusercontent.com/75413726/169875317-eb760ca8-e7a8-41b3-b871-36686810af25.png">
-<img width="501" alt="img3" src="https://user-images.githubusercontent.com/75413726/169875358-d5d85ad7-5008-4975-b3a6-d1e6d51146e6.png">
-<img width="615" alt="img4" src="https://user-images.githubusercontent.com/75413726/169875414-60f3bf2e-ead6-4fab-ba01-cf3bb49ef89b.png">
+![img](https://user-images.githubusercontent.com/75413726/169877086-f827e1cf-ec41-4277-980c-d83d7dcb1932.jpg)
+![img1](https://user-images.githubusercontent.com/75413726/169877112-c2445311-3784-41f2-962d-f4b42db35df9.jpg)
+![img2](https://user-images.githubusercontent.com/75413726/169877140-8715b9ea-070a-4eea-9f9c-d3051dd1e9e2.jpg)
+![img3](https://user-images.githubusercontent.com/75413726/169877165-2a4de9e5-c465-4d65-afec-18e6c0834b9d.jpg)
+![img4](https://user-images.githubusercontent.com/75413726/169877204-d48b9640-a5a4-4782-9a4e-31d3a0d54723.jpg)
+
 The larger the state space, the longer it take to complete the search.
 
 
 
 ## Time Complexity Plot
 
-<img width="342" alt="img5" src="https://user-images.githubusercontent.com/75413726/169875462-449e7d15-4142-4250-8cf0-6f9c9b9a68b3.png">
-
+![img5](https://user-images.githubusercontent.com/75413726/169877260-d7b62d8e-248b-4d8a-ace9-56bdc37d4533.jpg)
 
 ## RESULT:
 
